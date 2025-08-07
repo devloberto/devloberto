@@ -10,6 +10,10 @@
 
 ## hey there 👋
 
+### 🔭 I’m currently working on
+
+- my beloved homelab with [traefik](https://github.com/traefik), [yunohost](https://github.com/yunohost), [gitea](https://github.com/go-gitea), [nextcloud](https://github.com/nextcloud), [minio](https://github.com/minio/), [homeassistant](https://github.com/home-assistant), etc.
+
 <!--
 **devloberto/devloberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
